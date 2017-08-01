@@ -5,6 +5,8 @@ body
 
 #Test
  {
+    width: 600px;
+    height: 600px;
     background-color: #e6e6e6;
     font-family: helvetica, san-serif;
     font-color: red;
