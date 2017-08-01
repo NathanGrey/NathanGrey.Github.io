@@ -12,6 +12,7 @@ body
   height: 300px;
   color: white;
   margin: auto;
+  display: inline;
   font-family: 'Jura', sans-serif;
   /*font-family: 'Geo', sans-serif;*/
   /*font-family: 'Inconsolata', monospace;*/
