@@ -19,6 +19,9 @@ body
     background-color: #e6e6e6;
     font-family: helvetica, san-serif;
     font-color: #404040;
+   border-style: solid;
+   border-color: #404040;
+   border-size: 2px;
 }
 
 #Test:hover
