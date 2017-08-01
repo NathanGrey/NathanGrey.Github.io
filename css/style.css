@@ -5,17 +5,19 @@ body
 
 #Test
  {
+   padding: 50px;
     width: 250px;
     height: 250px;
     background-color: #e6e6e6;
     font-family: helvetica, san-serif;
-    font-color: red;
+    font-color: #404040;
     border-radius: 50%;
 }
 
 #Test:hover
 {
     background-color: #404040;
+  font-color: #e6e6e6;
 }
 
 h1
