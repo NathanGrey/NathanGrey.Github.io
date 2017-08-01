@@ -6,13 +6,13 @@ body
 #CodePortfolio
 {
   padding: 60px;
-  height: 200px;
+  height: 300px;
   color: white;
   font-family: helvetica, san-serif;
   font-size: 60px;
   font-weight: bold;
   text-align: center;
-  background-image: url("/images/CodePortfolioHeader2.png");
+  background-image: url("/images/CodePortfolioHeader3.png");
   background-repeat: no-repeat;
   /*background-color: #e6e6e6;*/
 }
