@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css?family=Inconsolata');
 body
 {
   background-color: #cccccc;
@@ -8,7 +9,7 @@ body
   padding: 100px;
   height: 300px;
   color: white;
-  font-family: gotham, san-serif;
+  font-family: 'Inconsolata', monospace;
   font-size: 60px;
   /*font-weight: bold;*/
   text-align: center;
