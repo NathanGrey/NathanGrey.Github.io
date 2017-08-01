@@ -5,7 +5,7 @@ body
 
 #CodePortfolio
 {
-  padding: 20px;
+  padding: 50px;
   height: 100px;
   background-color: #e6e6e6;
   font-color: #e6e6e6;
@@ -31,7 +31,7 @@ body
   font-color: #e6e6e6;
 }
 /* unvisited link */
-#Test:link {
+#Test a:link {
     color: red;
 }
 
