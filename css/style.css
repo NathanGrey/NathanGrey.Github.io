@@ -5,9 +5,8 @@ body
 
 #CodePortfolio
 {
-  margin: 50px;
-  padding: 20px;
-  height: 50px;
+  padding: 10px;
+  height: 30px;
   background-color: #e6e6e6;
 }
 
@@ -24,7 +23,7 @@ body
 
 #Test:hover
 {
-    background-color: #404040;
+  background-color: #404040;
   font-color: #e6e6e6;
 }
 
