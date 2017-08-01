@@ -5,7 +5,7 @@ body
 
 #CodePortfolio
 {
-  font-color: #e6e6e6;
+  height: 200px;
   background-color: #404040;
 }
 
@@ -29,6 +29,7 @@ h1
   {
     text-align: center;
     font-family: helvetica, san-serif;
+    font-color: #e6e6e6;
 }
 
 #GameDevelopment
