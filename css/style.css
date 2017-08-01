@@ -24,8 +24,9 @@ body
     background-color: #e6e6e6;
     font-family: helvetica, san-serif;
     font-color: #404040;
-    font-size: 30px;
+    font-size: 25px;
     font-weight: bold;
+    font-height: 10px;
     border-style: solid;
     border-color: #404040;
     border-size: 2px;
