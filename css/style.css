@@ -6,8 +6,9 @@ body
 #CodePortfolio
 {
   padding: 10px;
-  height: 60px;
+  height: 80px;
   background-color: #e6e6e6;
+  font-color: #e6e6e6;
 }
 
 #Test
@@ -19,15 +20,34 @@ body
     background-color: #e6e6e6;
     font-family: helvetica, san-serif;
     font-color: #404040;
-   border-style: solid;
-   border-color: #404040;
-   border-size: 2px;
+    border-style: solid;
+    border-color: #404040;
+    border-size: 2px;
 }
 
 #Test:hover
 {
   background-color: #404040;
   font-color: #e6e6e6;
+}
+/* unvisited link */
+#Test, a:link {
+    color: red;
+}
+
+/* visited link */
+#Test, a:visited {
+    color: green;
+}
+
+/* mouse over link */
+#Test, a:hover {
+    color: hotpink;
+}
+
+/* selected link */
+#Test, a:active {
+    color: blue;
 }
 
 h1
