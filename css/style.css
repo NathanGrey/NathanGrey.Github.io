@@ -36,17 +36,17 @@ body
 }
 
 /* visited link */
-#Test:visited {
+#Test a:visited {
     color: green;
 }
 
 /* mouse over link */
-#Test:hover {
+#Test a:hover {
     color: hotpink;
 }
 
 /* selected link */
-#Test:active {
+#Test a:active {
     color: blue;
 }
 
