@@ -48,6 +48,9 @@ body
   background-color: #404040;
   font-color: white;
   text-decoration: none;
+  border-style: solid;
+  border-color: #404040;
+  border-size: 2px;
 }
 /* unvisited link */
 #Test a:link {
