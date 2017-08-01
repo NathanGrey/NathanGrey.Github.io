@@ -31,22 +31,22 @@ body
   font-color: #e6e6e6;
 }
 /* unvisited link */
-#Test, a:link {
+#Test:link {
     color: red;
 }
 
 /* visited link */
-#Test, a:visited {
+#Test:visited {
     color: green;
 }
 
 /* mouse over link */
-#Test, a:hover {
+#Test:hover {
     color: hotpink;
 }
 
 /* selected link */
-#Test, a:active {
+#Test:active {
     color: blue;
 }
 
