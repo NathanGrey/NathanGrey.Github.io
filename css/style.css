@@ -5,7 +5,7 @@ body
 
 #CodePortfolio
 {
-  padding: 50px;
+  padding: 60px;
   height: 100px;
   background-color: #e6e6e6;
   text-align: center;
@@ -24,6 +24,7 @@ body
     background-color: #e6e6e6;
     font-family: helvetica, san-serif;
     font-color: #404040;
+    font-size: 20px;
     border-style: solid;
     border-color: #404040;
     border-size: 2px;
