@@ -26,7 +26,7 @@ body
   /*background-color: #e6e6e6;*/
 }
 
-#Test
+#Test #Test2
  {
    vertical-align: middle;
   horizontal-align: middle;
@@ -36,11 +36,13 @@ body
     width: 150px;
     height: 150px;
     background-color: #e6e6e6;
-    font-family: helvetica, san-serif;
+    font-family: 'Jura', sans-serif;
     font-color: #404040;
     font-size: 25px;
     font-weight: bold;
     font-height: 20px;
+   text-transform: uppercase;
+  letter-spacing: 6px;
     border-style: solid;
     border-color: #404040;
     border-size: 2px;
@@ -78,25 +80,7 @@ body
     color: green;
     text-decoration: none;
 }
-#Test2
- {
-     vertical-align: middle;
-     horizontal-align: middle;
-   float: left;
-    margin: 5px;
-    padding: 50px;
-    width: 150px;
-    height: 150px;
-    background-color: #e6e6e6;
-    font-family: helvetica, san-serif;
-    font-color: #404040;
-    font-size: 25px;
-    font-weight: bold;
-    font-height: 20px;
-    border-style: solid;
-    border-color: #404040;
-    border-size: 2px;
-}
+
 
 #Test2:hover
 {
