@@ -25,6 +25,15 @@ h2
   color: white;
   font-size: 20px;
 }
+h2
+  {
+
+  margin: 2px;
+   font-family: Helvetica, sans-serif;
+  text-transform: uppercase;
+  color: white;
+  font-size: 12px;
+}
 
 
 #CodePortfolio
@@ -54,8 +63,8 @@ h2
    float: left;
     margin: 10px;
     padding: 50px;
-    width: 250px;
-    height: 250px;
+    width: 200px;
+    height: 200px;
     background-color: 	 #666666;
     font-family: Helvetica, sans-serif;
     font-color: white;
