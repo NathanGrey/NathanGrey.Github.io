@@ -28,6 +28,7 @@ body
 
 #Test
  {
+   float: left;
     margin: 50px;
     padding: 50px;
     width: 150px;
@@ -77,7 +78,7 @@ body
 }
 #Test2
  {
-   float: right;
+   float: left;
     margin: 50px;
     padding: 50px;
     width: 150px;
