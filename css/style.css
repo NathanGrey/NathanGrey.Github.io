@@ -75,6 +75,56 @@ body
     color: green;
     text-decoration: none;
 }
+#Test2
+ {
+   float: left;
+    margin: 50px;
+    padding: 50px;
+    width: 150px;
+    height: 150px;
+    background-color: #e6e6e6;
+    font-family: helvetica, san-serif;
+    font-color: #404040;
+    font-size: 25px;
+    font-weight: bold;
+    font-height: 20px;
+    border-style: solid;
+    border-color: #404040;
+    border-size: 2px;
+}
+
+#Test2:hover
+{
+  background-color: #404040;
+  font-color: white;
+  text-decoration: none;
+  border-style: solid;
+  border-color: #404040;
+  border-size: 2px;
+}
+/* unvisited link */
+#Test2 a:link {
+    color: red;
+    text-decoration: none;
+}
+
+/* visited link */
+#Test2 a:visited {
+    color: black;
+    text-decoration: none;
+}
+
+/* mouse over link */
+#Test2 a:hover {
+    color: white;
+    text-decoration: none;
+}
+
+/* selected link */
+#Test2 a:active {
+    color: green;
+    text-decoration: none;
+}
 
 h1
   {
