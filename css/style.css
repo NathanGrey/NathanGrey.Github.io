@@ -12,7 +12,7 @@ body
   margin: 2px;
   font-family: helvetica, san-serif;
   text-transform: uppercase;
-  font-color: white;
+  color: white;
 }
 
 #Programming
@@ -20,7 +20,7 @@ body
   margin: 2px;
   font-family: helvetica, san-serif;
   text-transform: uppercase;
-  font-color: white;
+  color: white;
   font-size: 20px;
 }
 
