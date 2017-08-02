@@ -10,7 +10,7 @@ body
 #GameDevelopment
 {
   margin: 2px;
-  font-family: helvetica, san-serif;
+   font-family: 'Jura', sans-serif;
   text-transform: uppercase;
   color: white;
 }
@@ -18,7 +18,7 @@ body
 #Programming
 {
   margin: 2px;
-  font-family: helvetica, san-serif;
+   font-family: 'Jura', sans-serif;
   text-transform: uppercase;
   color: white;
   font-size: 20px;
