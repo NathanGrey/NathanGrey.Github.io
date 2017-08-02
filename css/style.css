@@ -29,8 +29,8 @@ body
 #Test
  {
    float: left;
-    margin: 50px;
-    padding: 5px;
+    margin: 5px;
+    padding: 50px;
     width: 150px;
     height: 150px;
     background-color: #e6e6e6;
@@ -79,8 +79,8 @@ body
 #Test2
  {
    float: left;
-    margin: 50px;
-    padding: 5px;
+    margin: 5px;
+    padding: 50px;
     width: 150px;
     height: 150px;
     background-color: #e6e6e6;
