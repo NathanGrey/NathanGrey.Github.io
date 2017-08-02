@@ -7,7 +7,7 @@ body
 }
 #GameDevelopment
 {
-    margin: 5px;
+    margin: 2px;
     font-family: helvetica, san-serif;
 }
   
@@ -43,7 +43,7 @@ body
     background-color: #e6e6e6;
     font-family: Helvetica, sans-serif;
     font-color: #404040;
-    font-size: 25px;
+    font-size: 15px;
     font-weight: bold;
     font-height: 20px;
    text-transform: uppercase;
