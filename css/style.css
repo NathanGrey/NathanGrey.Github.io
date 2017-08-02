@@ -27,7 +27,7 @@ body
 #CodePortfolio
 {
   vertical-align: middle;
-  /*line-height: 300px;*/  
+  line-height: 300px;  
   padding: 100px;
   height: 300px;
   color: white;
@@ -50,7 +50,7 @@ body
   line-height: 150px; 
    float: left;
     margin: 10px;
-    /*padding: 50px;*/
+    padding: 50px;
     width: 150px;
     height: 150px;
     background-color: 	 #666666;
