@@ -42,7 +42,7 @@ body
     height: 150px;
     background-color: 	 #666666;
     font-family: Helvetica, sans-serif;
-    font-color: #404040;
+    font-color: white;
     font-size: 15px;
     font-weight: bold;
     font-height: 20px;
@@ -61,13 +61,13 @@ body
 }
 /* unvisited link */
 #Test a:link, #Test2 a:link, #Test3 a:link, #Test4 a:link, #Test5 a:link, #Test6 a:link, #Test7 a:link, #Test8 a:link {
-    color: red;
+    color: white;
     text-decoration: none;
 }
 
 /* visited link */
 #Test a:visited, #Test2 a:visited, #Test3 a:visited, #Test4 a:visited, #Test5 a:visited, #Test6 a:visited, #Test7 a:visited, #Test8 a:visited  {
-    color: black;
+    color: white;
     text-decoration: none;
 }
 
@@ -79,7 +79,7 @@ body
 
 /* selected link */
 #Test a:active, #Test2 a:active, #Test3 a:active, #Test4 a:active, #Test5 a:active, #Test6 a:active, #Test7 a:active, #Test8 a:active {
-    color: green;
+    color: white;
     text-decoration: none;
 }
 
