@@ -40,7 +40,7 @@ body
     padding: 50px;
     width: 150px;
     height: 150px;
-    background-color: #e6e6e6;
+    background-color: 	 #666666;
     font-family: Helvetica, sans-serif;
     font-color: #404040;
     font-size: 15px;
@@ -55,7 +55,7 @@ body
 
 #Test:hover, #Test2:hover, #Test3:hover, #Test4:hover, #Test5:hover, #Test6:hover, #Test7:hover, #Test8:hover
 {
-  background-color: #404040;
+  background-color: #cccccc;
   font-color: white;
   text-decoration: none;
 }
