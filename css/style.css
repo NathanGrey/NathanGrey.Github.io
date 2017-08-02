@@ -5,7 +5,12 @@ body
 {
   background-color: #808080;
 }
-
+#GameDevelopment
+{
+    margin: 5px;
+    font-family: helvetica, san-serif;
+}
+  
 #CodePortfolio
 {
   vertical-align: middle;
@@ -121,9 +126,4 @@ h1
     font-family: helvetica, san-serif;
 }
 
-#GameDevelopment
-{
-    margin: 10px;
-    font-family: helvetica, san-serif;
-}
-  
+
