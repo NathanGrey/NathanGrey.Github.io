@@ -1,6 +1,5 @@
 @import url('https://fonts.googleapis.com/css?family=Jura');
-/*@import url('https://fonts.googleapis.com/css?family=Geo');*/
-/*@import url('https://fonts.googleapis.com/css?family=Inconsolata');*/
+/* imports Google Fonts to use*/
 
 body
 {
@@ -9,34 +8,32 @@ body
 
 h1
   {
-
-   margin: 2px;
-   font-family: 'Jura', sans-serif;
+  margin: 2px;
+  font-family: 'Jura', sans-serif;
   text-transform: uppercase;
   color: white;
 }
 
 h2
   {
-
   margin: 2px;
-   font-family: 'Jura', sans-serif;
+  font-family: 'Jura', sans-serif;
   text-transform: uppercase;
   color: white;
   font-size: 20px;
 }
+
 ul
   {
-
   margin: 2px;
-   font-family: Helvetica, sans-serif;
+  font-family: Helvetica, sans-serif;
   text-transform: uppercase;
   color: white;
   font-size: 18px;
 }
 
-
-#CodePortfolio
+/* HEADER */
+#CodePortfolio 
 {
   vertical-align: middle;
   line-height: 300px;  
@@ -56,28 +53,28 @@ ul
   /*background-color: #e6e6e6;*/
 }
 
-#Test, #Test2, #Test3, #Test4, #Test5, #Test6, #Test7, #Test8
+/* PORTFOLIO DIVS */
+#Test, #Test2, #Test3, #Test4, #Test5, #Test6, #Test7, #Test8 
  {
-   vertical-align: middle;
-  /*line-height: 150px; */
-   float: left;
-    margin: 10px;
-    padding: 50px;
-    width: 220px;
-    height: 220px;
-    background-color: 	 #666666;
-    font-family: Helvetica, sans-serif;
-    font-color: white;
-    font-size: 20px;
-    font-weight: bold;
-    font-height: 20px;
-   text-transform: uppercase;
-  /*letter-spacing: 2px;*/
-    /*border-style: solid;*/
-    /*border-color: #404040;*/
-    /*border-size: 2px;*/
+  vertical-align: middle;
+  float: left;
+  margin: 10px;
+  padding: 50px;
+  width: 220px;
+  height: 220px;
+  background-color: #666666;
+  font-family: Helvetica, sans-serif;
+  font-color: white;
+  font-size: 20px;
+  font-weight: bold;
+  font-height: 20px;
+  text-transform: uppercase;
+  /*border-style: solid;*/
+  /*border-color: #404040;*/
+  /*border-size: 2px;*/
 }
 
+/* PORTFOLIO HOVERS */
 #Test:hover, #Test2:hover, #Test3:hover, #Test4:hover, #Test5:hover, #Test6:hover, #Test7:hover, #Test8:hover
 {
   background-color: #a6a6a6;
@@ -86,33 +83,30 @@ ul
 }
 /* unvisited link */
 #Test a:link, #Test2 a:link, #Test3 a:link, #Test4 a:link, #Test5 a:link, #Test6 a:link, #Test7 a:link, #Test8 a:link {
-    color: white;
-    text-decoration: none;
+   color: white;
+   text-decoration: none;
 }
 
 /* visited link */
 #Test a:visited, #Test2 a:visited, #Test3 a:visited, #Test4 a:visited, #Test5 a:visited, #Test6 a:visited, #Test7 a:visited, #Test8 a:visited  {
-    color: white;
-    text-decoration: none;
+   color: white;
+   text-decoration: none;
 }
 
 /* mouse over link */
 #Test a:hover, #Test2 a:hover, #Test3 a:hover, #Test4 a:hover, #Test5 a:hover, #Test6 a:hover, #Test7 a:hover, #Test8 a:hover {
-    color: white;
-    text-decoration: none;
+   color: white;
+   text-decoration: none;
 }
 
 /* selected link */
 #Test a:active, #Test2 a:active, #Test3 a:active, #Test4 a:active, #Test5 a:active, #Test6 a:active, #Test7 a:active, #Test8 a:active {
-    color: white;
-    text-decoration: none;
+   color: white;
+   text-decoration: none;
 }
 
-
+/* CONTENT */
 #Content
 {
-clear: left;
+    clear: left;
 }
-
-
-
