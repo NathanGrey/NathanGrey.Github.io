@@ -31,7 +31,7 @@ body
   /*background-color: #e6e6e6;*/
 }
 
-#Test, #Test2
+#Test, #Test2, #Test3, #Test4, #Test5, #Test6, #Test7, #Test8
  {
    vertical-align: middle;
   horizontal-align: middle;
@@ -53,32 +53,32 @@ body
     /*border-size: 2px;*/
 }
 
-#Test:hover, #Test2:hover
+#Test:hover, #Test2:hover, #Test3:hover, #Test4:hover, #Test5:hover, #Test6:hover, #Test7:hover, #Test8:hover
 {
   background-color: #404040;
   font-color: white;
   text-decoration: none;
 }
 /* unvisited link */
-#Test a:link, #Test2 a:link {
+#Test a:link, #Test2 a:link, #Test3 a:link, #Test4 a:link, #Test5 a:link, #Test6 a:link, #Test7 a:link, #Test8 a:link {
     color: red;
     text-decoration: none;
 }
 
 /* visited link */
-#Test a:visited, #Test2 a:visited {
+#Test a:visited, #Test2 a:visited, #Test3 a:visited, #Test4 a:visited, #Test5 a:visited, #Test6 a:visited, #Test7 a:visited, #Test8 a:visited  {
     color: black;
     text-decoration: none;
 }
 
 /* mouse over link */
-#Test a:hover, #Test2 a:hover {
+#Test a:hover, #Test2 a:hover, #Test3 a:hover, #Test4 a:hover, #Test5 a:hover, #Test6 a:hover, #Test7 a:hover, #Test8 a:hover {
     color: white;
     text-decoration: none;
 }
 
 /* selected link */
-#Test a:active, #Test2 a:active {
+#Test a:active, #Test2 a:active, #Test3 a:active, #Test4 a:active, #Test5 a:active, #Test6 a:active, #Test7 a:active, #Test8 a:active {
     color: green;
     text-decoration: none;
 }
